@@ -1,0 +1,12 @@
+{
+  "name": "bot-dorama",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.5",
+    "node-cron": "^3.0.3"
+  }
+}
